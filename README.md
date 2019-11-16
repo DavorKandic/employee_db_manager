@@ -2,10 +2,10 @@
 ---
 
 __DESCRIPTION:__ _Program for creating and managment of a database __employees__
-which consists of three columns, namely:
+which consists of three columns, namely_:
     | FIRST NAME | LAST NAME | SALARY    |
-	-------------|-----------|-----------|
-	| _TEXT_     |  _TEXT_   | _INTEGER_ |
+    |-------------|-----------|-----------|
+    | _TEXT_     |  _TEXT_   | _INTEGER_ |
 	
 	
 ### __TO-DO'S:__
