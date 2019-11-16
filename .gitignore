@@ -1,0 +1,3 @@
+*.pyc
+*.db
+employee_sqlite.py
